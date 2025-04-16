@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm OM Sharma
 
-<!--
-**developeromsharma/developeromsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Also known as **Developer OM Sharma** — I'm a passionate **Full Stack Developer** with experience in **Java, Android, .NET, and Azure**. I love building scalable software, contributing to open source, and sharing developer tips online.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Currently working on freelance projects and side hustles
+- 🌐 Exploring cloud technologies and DevOps tools (Microsoft Certified: Azure Developer Associate)
+- 🎥 Creating YouTube content as **Developer OM Sharma**
+- 📱 Android Developer (Java) | Backend with .NET
+- 🧠 Always learning and growing in the dev space!
+
+---
+
+## 🛠️ Tech Stack
+
+```java
+Languages:   Java, C#
+Frameworks:  .NET Core, Android SDK
+Databases:   MySQL, SQLite, CosmosDB, MongoDB
+Tools:       Git, Docker, Postman, VS Code, Android Studio
+Cloud:       Azure, AWS basics
