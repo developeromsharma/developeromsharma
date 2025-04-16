@@ -17,8 +17,8 @@
 ## 🛠️ Tech Stack
 
 ```java
-Languages:   Java, C#
-Frameworks:  .NET Core, Android SDK
+Languages:   Java, C# , JavaScript
+Frameworks:  .NET Core, Android SDK, React
 Databases:   MySQL, SQLite, CosmosDB, MongoDB
 Tools:       Git, Docker, Postman, VS Code, Android Studio
 Cloud:       Azure, AWS basics
