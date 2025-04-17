@@ -1,15 +1,14 @@
 # 👋 Hi, I'm OM Sharma
 
-👨‍💻 Also known as **Developer OM Sharma** — I'm a passionate **Full Stack Developer** with experience in **Java, Android, .NET, and Azure**. I love building scalable software, contributing to open source, and sharing developer tips online.
+👨‍💻Cloud Native Solution Developer on Azure with .Net I have experience in building cloud-native applications and resilient infrastructure with the main focus on Microsoft Azure. Highly motivated, energetic and driven with excellent interpersonal skills. I am open to new challenges and willing to work hard to reach my goals
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Currently working on freelance projects and side hustles
+
 - 🌐 Exploring cloud technologies and DevOps tools (Microsoft Certified: Azure Developer Associate)
-- 🎥 Creating YouTube content as **Developer OM Sharma**
-- 📱 Android Developer (Java) | Backend with .NET
+- 📱 Backend with .NET
 - 🧠 Always learning and growing in the dev space!
 
 ---
@@ -17,8 +16,8 @@
 ## 🛠️ Tech Stack
 
 ```java
-Languages:   Java, C# , JavaScript
-Frameworks:  .NET Core, Android SDK, React
+Languages:   C# 
+Frameworks:  .NET Core
 Databases:   MySQL, SQLite, CosmosDB, MongoDB
-Tools:       Git, Docker, Postman, VS Code, Android Studio
+Tools:       Git, Docker, Postman, VS Code
 Cloud:       Azure, AWS basics
