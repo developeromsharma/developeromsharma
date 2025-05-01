@@ -1,6 +1,6 @@
 # 👋 Hi, I'm OM Sharma
 
-👨‍💻Cloud Native Solution Developer on Azure with .Net I have experience in building cloud-native applications and resilient infrastructure with the main focus on Microsoft Azure. Highly motivated, energetic and driven with excellent interpersonal skills. I am open to new challenges and willing to work hard to reach my goals
+👨‍💻Cloud Native .NET Developer | Azure Certified | Microservices | ReactJS | SQL | CI/CD | 5× Microsoft Cert | 1× AWS Cert | Azure Dev & DevOps | Ex-Cognizant | .NET Full Stack Engineer
 
 ---
 
@@ -8,7 +8,7 @@
 
 
 - 🌐 Exploring cloud technologies and DevOps tools (Microsoft Certified: Azure Developer Associate)
-- 📱 Backend with .NET
+- 📱 Backend with .NET | Frontend With ReactJS
 - 🧠 Always learning and growing in the dev space!
 
 ---
@@ -16,8 +16,8 @@
 ## 🛠️ Tech Stack
 
 ```java
-Languages:   C# 
-Frameworks:  .NET Core
+Languages:   C#, Java
+Frameworks:  .NET Core, ReactJS
 Databases:   MySQL, SQLite, CosmosDB, MongoDB
 Tools:       Git, Docker, Postman, VS Code
 Cloud:       Azure, AWS basics
