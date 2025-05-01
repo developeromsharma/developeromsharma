@@ -1,23 +1,26 @@
-# 👋 Hi, I'm OM Sharma
+👋 Cloud-Native Solution Developer | Microsoft Azure | .NET | React
+I’m a passionate Cloud-Native Solution Developer with hands-on experience designing, developing, and deploying scalable microservices and resilient cloud infrastructure on Microsoft Azure.
 
-👨‍💻Cloud Native .NET Developer | Azure Certified | Microservices | ReactJS | SQL | CI/CD | 5× Microsoft Cert | 1× AWS Cert | Azure Dev & DevOps | Ex-Cognizant | .NET Full Stack Engineer
+🚀 Key Skills & Technologies:
+Backend: .NET Core, ASP.NET Core, C#
 
----
+Frontend: ReactJS, HTML, CSS
 
-## 🚀 About Me
+Cloud & DevOps: Azure App Services, Azure Functions, Azure KeyVault, Logic App, Storage Account, Service Bus, Application Insights,Azure API Management (APIM),  Azure DevOps, CI/CD pipelines, ARM/Bicep templates
 
+Architecture: Microservices, REST APIs, Event-driven architecture, Domain-Driven Design (DDD)
 
-- 🌐 Exploring cloud technologies and DevOps tools (Microsoft Certified: Azure Developer Associate)
-- 📱 Backend with .NET | Frontend With ReactJS
-- 🧠 Always learning and growing in the dev space!
+Tools & Platforms: GitHub, Visual Studio Code, Visual Studio, SQL Server, Entity Framework, Visual Studio, Postman
 
----
+💡 What I Do:
+Build cloud-native applications using .NET Core and deploy them to Microsoft Azure
 
-## 🛠️ Tech Stack
+Design resilient, scalable infrastructure using IaC, containers, and orchestrators
 
-```java
-Languages:   C#, Java
-Frameworks:  .NET Core, ReactJS
-Databases:   MySQL, SQLite, CosmosDB, MongoDB
-Tools:       Git, Docker, Postman, VS Code
-Cloud:       Azure, AWS basics
+Implement CI/CD pipelines and ensure robust testing and deployment strategies
+
+Collaborate across teams to deliver full-stack solutions with seamless frontend-backend integration
+
+I'm enthusiastic, self-driven, and committed to staying at the cutting edge of cloud technologies. Open to new roles and collaboration opportunities in cloud development, DevOps, and full-stack engineering.
+
+📩 Let’s connect to discuss opportunities or collaborations.
