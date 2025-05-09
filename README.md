@@ -1,6 +1,15 @@
 👋 Cloud-Native Solution Developer | Microsoft Azure | .NET | React
 I’m a passionate Cloud-Native Solution Developer with hands-on experience designing, developing, and deploying scalable microservices and resilient cloud infrastructure on Microsoft Azure.
 
+## 📊 GitHub Stats
+
+![OM Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developeromsharma&show_icons=true&theme=dark&rank_icon=percentile&hide_title=true)
+
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developeromsharma&layout=compact&theme=dark)
+
+
 🚀 Key Skills & Technologies:
 Backend: .NET Core, ASP.NET Core, C#
 
