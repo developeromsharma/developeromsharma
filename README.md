@@ -26,6 +26,7 @@ I'm enthusiastic, self-driven, and committed to staying at the cutting edge of c
 ## 📊 GitHub Stats
 
 ![OM Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developeromsharma&show_icons=true&theme=light&rank_icon=percentile&issues,contribs)
+![OM Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developeromsharma&show_icons=true&theme=default&hide=issues,contribs)
 
 ## 🧠 Most Used Languages
 
