@@ -39,28 +39,15 @@ I’m a passionate Cloud-Native Solution Developer with hands-on experience desi
 
 ---
 
-## 🔥 Featured Projects
-
-- [🔗 Azure-Ready Microservices Starter](https://github.com/developeromsharma/azure-microservices-template)  
-  Template for building cloud-native apps with .NET & Azure.
-
-- [📡 Azure Service Bus Explorer](https://github.com/developeromsharma/service-bus-explorer)  
-  React + .NET Core tool for visualizing Azure Service Bus messages.
-
----
-
-## 🎯 Currently Learning
-
-- ☁️ Mastering Azure Kubernetes Service (AKS)  
-- 🧩 Implementing Domain-Driven Design in Microservices  
-- 🛠️ Building a full-stack Azure DevOps demo project
-
----
-
 ## 🏆 Certifications
 
 - Microsoft Certified: Azure Developer Associate  
-- PL-900: Power Platform Fundamentals *(in progress)*
+- PL-900: Power Platform Fundamentals 
+- AZ-900: Microsoft Certified: Azure Fundamentals
+- AI-900: Microsoft Certified: Azure AI Fundamentals
+- DP-900: Microsoft Certified: Azure Data Fundamentals
+- CLF-C01: AWS Certified Cloud Practitioner
+- .NET Core Certification by Publicis Sapient  
 
 ---
 
@@ -70,5 +57,4 @@ I'm enthusiastic, self-driven, and committed to staying at the cutting edge of c
 Open to new roles and collaboration opportunities in cloud development, DevOps, and full-stack engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/developeromsharma)  
-[![Resume](https://img.shields.io/badge/Resume-View-informational?logo=google-drive)](https://your-resume-link.com)
 
